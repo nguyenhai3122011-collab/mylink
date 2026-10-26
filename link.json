@@ -1,0 +1,26 @@
+{
+  "profile": {
+    "name": "Hải Dz",
+    "username": "@HDZ463",
+    "avatar": "images/avatar.svg",
+    "bio": "Chia sẻ các tool mà mình làm",
+    "location": "Hà Nội, Việt Nam",
+    "status": "bruh",
+    "email": "hdz463ne@gmail.com",
+    "socials": [
+      { "name": "TikTok",   "icon": "tiktok",    "url": "https://www.tiktok.com/@hdz463", "color": "#ff2d55" },
+      { "name": "Facebook", "icon": "facebook",  "url": "https://www.facebook.com/profile.php?id=61581297035985",     "color": "#1877f2" },
+      { "name": "Instagram","icon": "instagram", "url": "https://www.instagram.com/nguyenhai312211/",    "color": "#e1306c" }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Portfolio cá nhân",
+      "description": "Trang giới thiệu bản thân, kỹ năng và các dự án đã làm, thiết kế responsive trên mọi thiết bị.",
+      "url": "https://yourname.github.io/portfolio",
+      "image": "images/cover-portfolio.svg",
+      "tags": ["Portfolio", "HTML", "CSS"],
+      "featured": true
+    }
+  ]
+}
